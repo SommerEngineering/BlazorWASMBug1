@@ -1,0 +1,1 @@
+# BlazorWASMBug1
